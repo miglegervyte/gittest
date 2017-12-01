@@ -1,2 +1,4 @@
 # gittest
 # gittest
+
+komentaras
